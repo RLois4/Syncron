@@ -1,2 +1,2 @@
-# Ph4nix
+# Syncron
 A secure and private local connection application to share data
